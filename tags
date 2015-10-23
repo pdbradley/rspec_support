@@ -1,0 +1,5 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+example_failed	/Users/philip/code/rspec_support/vim_formatter.rb	/^  def example_failed(notification)$/;"	f	language:Ruby	class:QuickfixFormatter
+format	/Users/philip/code/rspec_support/vim_formatter.rb	/^  def format(notification)$/;"	f	language:Ruby	class:QuickfixFormatter
+initialize	/Users/philip/code/rspec_support/vim_formatter.rb	/^  def initialize(output)$/;"	f	language:Ruby	class:QuickfixFormatter
+QuickfixFormatter	/Users/philip/code/rspec_support/vim_formatter.rb	/^class QuickfixFormatter$/;"	c	language:Ruby

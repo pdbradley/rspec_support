@@ -1,3 +1,4 @@
+# this formatter is referenced from my rspec shortcuts in vimrc.  thanks to ronin on rails
 class QuickfixFormatter
   RSpec::Core::Formatters.register self, :example_failed
 
